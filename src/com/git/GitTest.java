@@ -9,5 +9,6 @@ public class GitTest {
 		System.out.println("git≤‚ ‘5");
 		System.out.println("git≤‚ ‘6");
 		System.out.println("git≤‚ ‘7");
+		System.out.println("git≤‚ ‘8");
 	}
 }
