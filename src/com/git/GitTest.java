@@ -2,7 +2,8 @@ package com.git;
 
 public class GitTest {
 	public static void main(String[] args) {
-		System.out.println("git²âÊÔ");
-		System.out.println("git²âÊÔ2");
+		System.out.println("gitÂ²Ã¢ÃŠÃ”");
+		System.out.println("gitÂ²Ã¢ÃŠÃ”2");
+		System.out.println("gitÂ²Ã¢ÃŠÃ”3");
 	}
 }
