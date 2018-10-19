@@ -7,5 +7,6 @@ public class GitTest {
 		System.out.println("gitÂ²Ã¢ÃŠÃ”3");
 		System.out.println("git²âÊÔ4");
 		System.out.println("git²âÊÔ5");
+		System.out.println("git²âÊÔ6");
 	}
 }
